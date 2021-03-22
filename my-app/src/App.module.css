@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.wrap {
+  margin-left: 15px;
+}
+.firstTitle {
+  font-size: 35px;
+  color: rgb(32, 80, 212);
+}
+.title {
+  font-size: 25px;
+  color: rgb(64, 107, 224);
+}
